@@ -1,0 +1,26 @@
+{
+  "name": "sadeq-shahmoradi",
+  "version": "1.0.0",
+  "description": "this is my portfolio",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sadeq76/sadeq-shahmoradi.git"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "programming",
+    "sadeq",
+    "shahmoradi"
+  ],
+  "author": "sadeq shahmoradi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sadeq76/sadeq-shahmoradi/issues"
+  },
+  "homepage": "https://github.com/sadeq76/sadeq-shahmoradi#readme"
+}
